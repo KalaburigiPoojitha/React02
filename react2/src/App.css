@@ -1,0 +1,37 @@
+.App {
+  text-align: center;
+  background-color: whitesmoke;
+  width: 100%;
+}
+h1 {
+  color: red;
+  text-shadow: 2px 2px 2px gray;
+}
+.nav {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+}
+.navBar:hover {
+  color: whitesmoke;
+  background-color: red;
+}
+img {
+  width: 200px;
+  height: 200px;
+}
+.subContainer {
+  border: 2px solid black;
+  display: inline-block;
+  color: black;
+  border-radius: 10px;
+  margin: 20px;
+  padding: 35px;
+}
+
+.class2 {
+  padding: 50px;
+}
+.class3 {
+  padding: 50px;
+}
